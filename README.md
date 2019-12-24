@@ -1,2 +1,2 @@
-# sns-share
-sns
+# Vue-study
+SNSシェア参考
